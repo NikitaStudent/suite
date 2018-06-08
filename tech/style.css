@@ -1,0 +1,24 @@
+h2 {
+    color: #fff;
+    background: #1446a3;
+    padding: 5px;
+}
+
+.box{
+	border : 1px;
+	border-color : #000080;
+	border-style: solid;
+	background : #6ebde7;
+}
+
+.author{
+	font-weight: bold;
+    font-style: italic;
+}
+
+.formula {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
